@@ -64,7 +64,7 @@ AI agents in Python for process automation (private repositories).
 
 | Projeto / Project | 🇧🇷 | 🇺🇸 |
 |---|---|---|
-| [**CT Lobinho Fight Team**](https://ctlobinho.com.br) | Plataforma para centro de treinamento de lutas: site, área do aluno, painel admin, cobrança automática, loja e app instalável (PWA) | Platform for a martial arts gym: website, student area, admin panel, automatic billing, store and installable app (PWA) |
+| [**CT Lobinho Fight Team**](https://acstm.com.br/portfolio/ct-lobinho) | Plataforma para centro de treinamento de lutas: site, área do aluno, painel admin, cobrança automática, loja e app instalável (PWA) | Platform for a martial arts gym: website, student area, admin panel, automatic billing, store and installable app (PWA) |
 | [**Camargo Confeitaria**](https://acstm.com.br/portfolio/camargo-confeitaria) | Sistema web de gestão de vendas por comandas, com histórico por cliente e relatórios | Web management system for tab-based sales, with per-customer history and reports |
 
 ### 🌐 Web
